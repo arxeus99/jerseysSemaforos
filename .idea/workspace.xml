@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0533b08a-6796-4ab5-96a4-ca7686b73665" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloCuerpos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloCuerpos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloMangas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloMangas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloEnsamblar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloEnsamblar.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -75,6 +75,7 @@
       <updated>1579204062973</updated>
       <workItem from="1579204067099" duration="1102000" />
       <workItem from="1579286687816" duration="174000" />
+      <workItem from="1579290360210" duration="306000" />
     </task>
     <servers />
   </component>
@@ -86,7 +87,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
