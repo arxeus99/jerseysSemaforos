@@ -12,7 +12,9 @@ public class HiloEnsamblar extends Thread {
                     main.mangas.release(2);
                     System.out.println("Acabo de ensamblar un jersey");
                 }else{
-                    System.out.println("Aun no hay suficientes mangas o cuerpos, esperaré");
+                    if( main.cuerpos.availablePermits() > ( main.cuerpos.availablePermits()-1 ) ){
+                        System.out.println("No hay suficientes cuerpos");
+                    }
                     sleep(15000);
                 }
             }
