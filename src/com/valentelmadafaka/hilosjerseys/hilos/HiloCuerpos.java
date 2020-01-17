@@ -7,7 +7,7 @@ public class HiloCuerpos extends Thread{
         while(true) {
             try {
                 if (main.cuerpos.tryAcquire()) {
-                    main.cuerpos.acquire();
+                    //main.cuerpos.acquire();
                     sleep(20000);
                 } else {
                     System.out.println("No caben más cuerpos en la cesta");
