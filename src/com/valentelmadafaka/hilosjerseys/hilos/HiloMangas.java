@@ -7,9 +7,9 @@ public class HiloMangas extends Thread {
     public void run(){
         while (true){
             try{
+                sleep(10000);
                 if(main.mangas.tryAcquire()){
                     //main.mangas.acquire();
-                    sleep(10000);
                 }else{
                     System.out.println("No caben más mangas en la cesta");
                 }

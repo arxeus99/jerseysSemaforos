@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0533b08a-6796-4ab5-96a4-ca7686b73665" name="Default Changelist" comment="" />
+    <list default="true" id="0533b08a-6796-4ab5-96a4-ca7686b73665" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloCuerpos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloCuerpos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloMangas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/valentelmadafaka/hilosjerseys/hilos/HiloMangas.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
